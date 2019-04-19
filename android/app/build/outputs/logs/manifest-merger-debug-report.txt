@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/lvmario/React/Leogo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/91ac566825c1fccdbabacc4c3ff41ef8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0e403c2ad0e1eac6c67b1c2cc5ef39b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/168bd093f9638f03d4f07f5c6acd4d0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/614c68038ab0347441cea0d362714d98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ea4d48137ffe2a57dabc80eb5a8f74de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3f8cca2e802db5a9974931b2c3d00cc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0f70e53851ec470dca5977f82fdb4844/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d4fb5c7969a2b4392059ecb641d54129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c1e56fd872995d1105ac29941fbbe0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e200079af9741810a1aa988c580cadfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6dc27df717fddda631b390005b14941d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/568136a8c45872bf019bb55200f999de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e968f44ca36500e434a6f62954ed1ed4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/004ae36d5cf7dabb59e5b7207fbed6de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8d03308ac3d4a2a54545df60b1d0ee4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ab4afb7375a01c31bfa07b4beebc4e9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/04f7fa1bdfdcd6daef1c165f8c31597c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/403c20e5d8fc3e58a9e3f56e58dc8eef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c92d985700efb487d9b24a2f53798642/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5edb037448ecf3b88437c1844d0f93ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/861dd7122ff894655d1c80af81d4c725/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4c41cea3311b7bc2c23fc8c9d2a38e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b493b5d82b99225184b612ec601f67e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a46e012096598e5a4d5de98ca7f9c0c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/19f1ecfd9b626f872e9814b92c99834e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/695ffc9f713a25d90f6d76183da8127d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0dc6fe46f74dc016da8a06e076557fb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e1dba9b6fdb8759942c9e7843612b9c1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/78cb8e5deb6f9446afd177baa969198d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3de21e52da2e5f4d2dede5461e941c29/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ad2ad0487e11d0718b87e778dd540eea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b558f35da7066fb33594b190affd676f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2e901d09d05bd617cbd9ad5e8657746a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b91739437d49f4d1b961cbb96ff0f7a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/91ac566825c1fccdbabacc4c3ff41ef8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/91ac566825c1fccdbabacc4c3ff41ef8/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ab4afb7375a01c31bfa07b4beebc4e9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ab4afb7375a01c31bfa07b4beebc4e9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/04f7fa1bdfdcd6daef1c165f8c31597c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/04f7fa1bdfdcd6daef1c165f8c31597c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2e901d09d05bd617cbd9ad5e8657746a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2e901d09d05bd617cbd9ad5e8657746a/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ab4afb7375a01c31bfa07b4beebc4e9/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.leogo.MainActivity
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/lvmario/React/Leogo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/lvmario/React/Leogo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/91ac566825c1fccdbabacc4c3ff41ef8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/91ac566825c1fccdbabacc4c3ff41ef8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0e403c2ad0e1eac6c67b1c2cc5ef39b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0e403c2ad0e1eac6c67b1c2cc5ef39b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/168bd093f9638f03d4f07f5c6acd4d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/168bd093f9638f03d4f07f5c6acd4d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/614c68038ab0347441cea0d362714d98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/614c68038ab0347441cea0d362714d98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ea4d48137ffe2a57dabc80eb5a8f74de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ea4d48137ffe2a57dabc80eb5a8f74de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3f8cca2e802db5a9974931b2c3d00cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3f8cca2e802db5a9974931b2c3d00cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0f70e53851ec470dca5977f82fdb4844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0f70e53851ec470dca5977f82fdb4844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d4fb5c7969a2b4392059ecb641d54129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d4fb5c7969a2b4392059ecb641d54129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c1e56fd872995d1105ac29941fbbe0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c1e56fd872995d1105ac29941fbbe0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e200079af9741810a1aa988c580cadfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e200079af9741810a1aa988c580cadfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6dc27df717fddda631b390005b14941d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6dc27df717fddda631b390005b14941d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/568136a8c45872bf019bb55200f999de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/568136a8c45872bf019bb55200f999de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e968f44ca36500e434a6f62954ed1ed4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e968f44ca36500e434a6f62954ed1ed4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/004ae36d5cf7dabb59e5b7207fbed6de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/004ae36d5cf7dabb59e5b7207fbed6de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8d03308ac3d4a2a54545df60b1d0ee4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8d03308ac3d4a2a54545df60b1d0ee4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ab4afb7375a01c31bfa07b4beebc4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ab4afb7375a01c31bfa07b4beebc4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/04f7fa1bdfdcd6daef1c165f8c31597c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/04f7fa1bdfdcd6daef1c165f8c31597c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/403c20e5d8fc3e58a9e3f56e58dc8eef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/403c20e5d8fc3e58a9e3f56e58dc8eef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c92d985700efb487d9b24a2f53798642/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c92d985700efb487d9b24a2f53798642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5edb037448ecf3b88437c1844d0f93ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5edb037448ecf3b88437c1844d0f93ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/861dd7122ff894655d1c80af81d4c725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/861dd7122ff894655d1c80af81d4c725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4c41cea3311b7bc2c23fc8c9d2a38e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4c41cea3311b7bc2c23fc8c9d2a38e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b493b5d82b99225184b612ec601f67e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b493b5d82b99225184b612ec601f67e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a46e012096598e5a4d5de98ca7f9c0c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a46e012096598e5a4d5de98ca7f9c0c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/19f1ecfd9b626f872e9814b92c99834e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/19f1ecfd9b626f872e9814b92c99834e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/695ffc9f713a25d90f6d76183da8127d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/695ffc9f713a25d90f6d76183da8127d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0dc6fe46f74dc016da8a06e076557fb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0dc6fe46f74dc016da8a06e076557fb0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e1dba9b6fdb8759942c9e7843612b9c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e1dba9b6fdb8759942c9e7843612b9c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/78cb8e5deb6f9446afd177baa969198d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/78cb8e5deb6f9446afd177baa969198d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3de21e52da2e5f4d2dede5461e941c29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3de21e52da2e5f4d2dede5461e941c29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ad2ad0487e11d0718b87e778dd540eea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ad2ad0487e11d0718b87e778dd540eea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b558f35da7066fb33594b190affd676f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b558f35da7066fb33594b190affd676f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2e901d09d05bd617cbd9ad5e8657746a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2e901d09d05bd617cbd9ad5e8657746a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b91739437d49f4d1b961cbb96ff0f7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/lvmario/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b91739437d49f4d1b961cbb96ff0f7a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/lvmario/React/Leogo/android/app/src/debug/AndroidManifest.xml:5:22-75

@@ -1,0 +1,4 @@
+#Thu Apr 18 22:53:12 ICT 2019
+base.0=/Users/lvmario/React/Leogo/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
